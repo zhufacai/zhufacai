@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"</p>
+<p align="center"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px"></p>
 
 ******
 ### 😎About me
