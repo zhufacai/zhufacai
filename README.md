@@ -10,7 +10,7 @@
 - 🌏 China🐰.
 - 🔗 www.joker.cc
 - 📧 www@joker.cc
-- 😍 I love money💵💴💶💷.
+- 😍 I love money💵💴💶💷,girl's ass, tits and pussy❤️.
 
 </samp>
 
