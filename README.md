@@ -8,7 +8,7 @@
 - 🐰 In China.
 - 🔗 www.joker.cc
 - 📧 www@joker.cc
-- ❤️ I love money.
+- 😍 I love money.
 
 </samp>
 
@@ -18,7 +18,7 @@
 
 ⭐My domain is for sale on [dan.com](https://dan.com/domain-seller/joker)
 
-$\color{green}{sell：}$
+$\color{green}{sell：}$ 👇
 - [ps.ee](https://dan.com/buy-domain/ps.ee)
 - [sb.ee](https://dan.com/buy-domain/sb.ee)
 - [pt.ee](https://dan.com/buy-domain/pt.ee)
@@ -27,7 +27,7 @@ $\color{green}{sell：}$
 - [dcep.day](https://dan.com/buy-domain/dcep.day)
 - [joker.cc](https://dan.com/buy-domain/joker.cc)
 
-$\color{red}{Sold:}$
+$\color{red}{Sold:}$ ❌
 - zr.ee
 - lg.ee
 - fn.ee
