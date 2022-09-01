@@ -2,7 +2,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/14821269/187910624-8bda9277-74f5-4fa5-a13f-99a81c3a93b7.jpg"></p>
 
 ******
-😎**About me**
+### 😎About me
 
 <samp>
 
@@ -16,8 +16,10 @@
 
 ******
 
-🛒**Domain shop**
+### 🛒Domain shop
 
+<samp>
+  
 ⭐My domain is for sale on [dan.com](https://dan.com/domain-seller/joker)
 
 $\color{green}{Sell：}$ Click the link to buy👇, or [email me](www@joker.cc).
@@ -39,5 +41,6 @@ $\color{red}{Sold:}$ These domains have been sold,only show.
 - ic.ci
 - pornchannels.com
 ******
+</samp>
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhufacai&show_icons=true&theme=radical)
