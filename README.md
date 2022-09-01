@@ -18,8 +18,7 @@
 
 ⭐My domain is for sale on [dan.com](https://dan.com/domain-seller/joker)
 
-For sale:
-
+$\color{green}{sell：}$
 - [ps.ee](https://dan.com/buy-domain/ps.ee)
 - [sb.ee](https://dan.com/buy-domain/sb.ee)
 - [pt.ee](https://dan.com/buy-domain/pt.ee)
@@ -28,7 +27,7 @@ For sale:
 - [dcep.day](https://dan.com/buy-domain/dcep.day)
 - [joker.cc](https://dan.com/buy-domain/joker.cc)
 
-Sold:
+$\color{red}{Sold:}$
 - zr.ee
 - lg.ee
 - fn.ee
