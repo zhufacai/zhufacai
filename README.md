@@ -27,13 +27,13 @@ For sale:
 - [joker.cc](https://dan.com/buy-domain/joker.cc)
 
 Sold:
-- [zr.ee](https://dan.com/buy-domain/zr.ee)
-- [lg.ee](https://dan.com/buy-domain/lg.ee)
-- [fn.ee](https://dan.com/buy-domain/fn.ee)
-- [16.ee](https://dan.com/buy-domain/16.ee)
-- [fy.ee](https://dan.com/buy-domain/fy.ee)
-- [my.ci](https://dan.com/buy-domain/my.ci)
-- [ic.ci](https://dan.com/buy-domain/tz.ee)
-- [pornchannels.com](https://dan.com/buy-domain/pornchannels.com)
-- 
+- zr.ee
+- lg.ee
+- fn.ee
+- 16.ee
+- fy.ee
+- my.ci
+- ic.ci
+- pornchannels.com
+
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhufacai&show_icons=true&theme=radical)
