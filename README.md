@@ -4,7 +4,9 @@
 
 - 🤡 I’m Joker.
 
-- 🔗 www.joker.cc
+- 🐰 In China.
+
+- 🔗 My blog:www.joker.cc
 
 - ❤️ I love money.
 
