@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"><img src="https://user-images.githubusercontent.com/14821269/187910624-8bda9277-74f5-4fa5-a13f-99a81c3a93b7.jpg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"</p>
 
 ******
 ### 😎About me
@@ -22,7 +22,7 @@
   
 ⭐My domain is for sale on [dan.com](https://dan.com/domain-seller/joker)
 
-$\color{green}{Sell：}$ 👇Click the link to buy, or [email me](www@joker.cc).
+$\color{green}{Sell：}$👇Click the link to buy, or [email me](www@joker.cc).
 - [ps.ee](https://dan.com/buy-domain/ps.ee)
 - [sb.ee](https://dan.com/buy-domain/sb.ee)
 - [pt.ee](https://dan.com/buy-domain/pt.ee)
