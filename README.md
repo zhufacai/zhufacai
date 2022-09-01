@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+******
 😎**About me**
 
 <samp>
@@ -12,9 +12,11 @@
 
 </samp>
 
+******
+
 🛒**Domain shop**
 
-My domain is for sale on [dan.com](https://dan.com/domain-seller/joker)
+⭐My domain is for sale on [dan.com](https://dan.com/domain-seller/joker)
 
 For sale:
 
@@ -35,5 +37,6 @@ Sold:
 - my.ci
 - ic.ci
 - pornchannels.com
+******
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhufacai&show_icons=true&theme=radical)
