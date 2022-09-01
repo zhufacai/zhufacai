@@ -6,7 +6,7 @@
 
 - 🐰 In China.
 
-- 🔗 My blog:www.joker.cc
+- 🔗 www.joker.cc
 
 - ❤️ I love money.
 
