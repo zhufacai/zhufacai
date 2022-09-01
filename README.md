@@ -4,7 +4,7 @@
 
 <samp>
 
-- 👦 I’m Joker🤡.
+- 🤡 I’m Joker.
 - 🌏 China🐰.
 - 🔗 www.joker.cc
 - 📧 www@joker.cc
