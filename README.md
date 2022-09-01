@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"><img src="https://i.imgur.com/kdKhgx6.gif" width="240px"></p>
+<p align="center"><img src="https://www.qixis.me/wp-content/uploads/2022/07/1_3.webp"></p>
 
 ******
 😎**About me**
