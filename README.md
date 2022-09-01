@@ -10,7 +10,7 @@
 - 🌏 China🐰.
 - 🔗 www.joker.cc
 - 📧 www@joker.cc
-- 😍 I love money💵💴💶💷,girl's ass, tits and pussy❤️.
+- ❤️ I love money💵💴💶💷,girl's ass, tits and pussy😍.
 
 </samp>
 
@@ -22,7 +22,7 @@
   
 ⭐My domain is for sale on [dan.com](https://dan.com/domain-seller/joker)
 
-$\color{green}{Sell：}$👇Click the link to buy, or [email me](www@joker.cc).
+$\color{green}{Sell：}$ 👇Click the link to buy, or [email me](www@joker.cc).
 - [ps.ee](https://dan.com/buy-domain/ps.ee)
 - [sb.ee](https://dan.com/buy-domain/sb.ee)
 - [pt.ee](https://dan.com/buy-domain/pt.ee)
