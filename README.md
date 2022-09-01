@@ -4,11 +4,11 @@
 
 <samp>
 
-- 🤡 I’m Joker.
-- 🐰 In China.
+- 👦 I’m Joker🤡.
+- 🌏 China🐰.
 - 🔗 www.joker.cc
 - 📧 www@joker.cc
-- 😍 I love money.
+- 😍 I love money💵💴💶💷.
 
 </samp>
 
