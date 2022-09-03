@@ -18,9 +18,9 @@
 
 <samp>
   
-### ⭐My domains for sale on [dan.com](https://dan.com/domain-seller/joker).Click the link to buy, or [email me](www@joker.cc).
+### ⭐My domains for sale on [dan.com](https://dan.com/domain-seller/joker).👈Click👇 the link to buy, or [email me](www@joker.cc).
 
-#### 🟢 $\color{green}{Sell:}$👇Premium domains for sale. 
+#### 🟢 $\color{green}{Sell:}$ Premium domains for sale. 
 - [ps.ee](https://dan.com/buy-domain/ps.ee)
 - [sb.ee](https://dan.com/buy-domain/sb.ee)
 - [pt.ee](https://dan.com/buy-domain/pt.ee)
