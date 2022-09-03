@@ -18,9 +18,9 @@
 
 <samp>
   
-### ⭐My domain is for sale on [dan.com](https://dan.com/domain-seller/joker).Click the link to buy, or [email me](www@joker.cc).
+### ⭐My domains for sale on [dan.com](https://dan.com/domain-seller/joker).Click the link to buy, or [email me](www@joker.cc).
 
-#### $\color{green}{Sell：}$👇The premium domains.
+#### 🟢 $\color{green}{Sell:}$👇Premium domains for sale. 
 - [ps.ee](https://dan.com/buy-domain/ps.ee)
 - [sb.ee](https://dan.com/buy-domain/sb.ee)
 - [pt.ee](https://dan.com/buy-domain/pt.ee)
@@ -29,7 +29,7 @@
 - [dcep.day](https://dan.com/buy-domain/dcep.day)
 - [joker.cc](https://dan.com/buy-domain/joker.cc)
 
-#### $\color{red}{Sold:}$ These domains have been sold,only show.
+#### 🔴 $\color{red}{Sold:}$ These domains have been sold,only show.
 - zr.ee
 - lg.ee
 - fn.ee
@@ -38,7 +38,6 @@
 - my.ci
 - ic.ci
 - pornchannels.com
-
 </samp>
 
 ## 🤖Github Stats
