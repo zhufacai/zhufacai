@@ -41,7 +41,7 @@
 
 </samp>
 
-## Github Stats
+## 🤖Github Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhufacai&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Joker's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhufacai&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
